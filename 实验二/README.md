@@ -39,10 +39,9 @@
 ![$O~T7@7}IHJLL3`H6F_IA6P](https://user-images.githubusercontent.com/102286754/177484897-95d8548b-dcb5-42a5-92ad-d07112f1d53d.png)
 ![`FNAUN7T6KPBX4} JN9 KTE](https://user-images.githubusercontent.com/102286754/177484916-0f874f61-04cc-474f-9ee6-0a0887b41338.png)
 ![9COYQOTUZ{_BF`F2GGOF@AR](https://user-images.githubusercontent.com/102286754/177485011-6b907eaf-0aba-4977-8f45-c655694cd2e8.png)
-![MDLWHY BXA6CZ9M%Y_8HLQR](https://user-images.githubu![ZUJZ9ZD{$~SWR8~BE$HQ2YD](https://user-images.githubusercontent.com/102286754/177485068-c1a8cb9b-2783-459b-8f9d-3be0f8bbc13f.png)
-sercontent.com/102286754/177485051-7efbf6ca-f66c-4edc-a30f-b2644951ef4a.png)
+![MDLWHY BXA6CZ9M%Y_8HLQR](https://user-images.githubu![ZUJZ9ZD{$~SWR8~BE$HQ2YD](https://user-images.githubusercontent.com/102286754/177485068-c1a8cb9b-2783-459b-8f9d-
 ![VP3Y%V_ _`1YLQPUO3SED38](https://user-images.githubusercontent.com/102286754/177485085-d591b00d-c21f-4732-a7b4-eaef3db6a10d.png)
 ![`U(AXM0B_$KVR3@6Q{E%1_F](https://user-images.githubusercontent.com/102286754/177485109-06f7f096-e369-42a0-9fdc-2b67bc1725ce.png)
-![K`_EAX7P U9}6_}CRR~SMML](https://user-images.githubusercontent.com/102286754/177485266-d9e8a89d-c5a5-4489-9798-821fd76728e1.png)
+
 
 
