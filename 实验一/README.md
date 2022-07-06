@@ -38,4 +38,10 @@ random 函数生成，也可以采用一些有效的随机数生成算法生成�
 3.  [QuickSort.c]  快速排序算法实现的C语言版本
 
 ## 实验预期结果与实际结果
++
+![UGZR3B%WPNT5C$%(X4B6$XD](https://user-images.githubusercontent.com/102286754/177478209-2f04dc2d-1d05-491c-bceb-f9ed47ff2157.png)
+![`_0KV)38AAB6J2QM%MQQ@KU](https://user-images.githubusercontent.com/102286754/177478232-e8afa13f-3235-4038-9915-ed0cee747b62.png)
+![GT16%OO`8@8A@ZPEIT5MVTC](https://user-images.githubusercontent.com/102286754/177478283-5e854b93-41b7-47d3-aeff-2245c8a825fd.png)
+![M6Y{63}UCQR9}OWQAFO{TNQ](https://user-images.githubusercontent.com/102286754/177478306-31135c6c-135d-4776-8f6a-643ed5c1bf30.png)
+
 + 
