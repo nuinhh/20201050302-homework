@@ -41,5 +41,8 @@ sortTest.java 生成随机数并测试三种算法，记录比较次数
 ![`_0KV)38AAB6J2QM%MQQ@KU](https://user-images.githubusercontent.com/102286754/177478232-e8afa13f-3235-4038-9915-ed0cee747b62.png)
 ![GT16%OO`8@8A@ZPEIT5MVTC](https://user-images.githubusercontent.com/102286754/177478283-5e854b93-41b7-47d3-aeff-2245c8a825fd.png)
 ![M6Y{63}UCQR9}OWQAFO{TNQ](https://user-images.githubusercontent.com/102286754/177478306-31135c6c-135d-4776-8f6a-643ed5c1bf30.png)
+三种算法比较时间曲线图：（红色为冒泡排序，绿色为快速排序，黑色为合并排序）
+![KDZ{FD(8CR6F87FX~U8VO(C](https://user-images.githubusercontent.com/102286754/177483812-410295be-f397-4d3f-aa46-6b20e561330a.png)
+去除冒泡排序后两算法的比较：
++ ![K`_EAX7P U9}6_}CRR~SMML](https://user-images.githubusercontent.com/102286754/177484074-15e48dc6-62a0-401c-bf31-f6732a5d073d.png)
 
-+ 
